@@ -1,1 +1,19 @@
-adam:
+Appointments:
+* No validations specified for login/registration but validations are part of the rubric.
+* Wireframe doesn't actually specify either appointment table should be user specific.
+
+Name:
+* Registration
+  -
+* Login:
+  -
+* Validation:
+  -
+* Appointment tables:
+  -
+* Appointment edit:
+  -
+* Appointment add:
+  -
+
+Code:
